@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Coin-Gold/.idea/Coin-Gold.iml" filepath="$PROJECT_DIR$/../Coin-Gold/.idea/Coin-Gold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../concours_api/.idea/concours.iml" filepath="$PROJECT_DIR$/../concours_api/.idea/concours.iml" />
+    </modules>
+  </component>
+</project>
